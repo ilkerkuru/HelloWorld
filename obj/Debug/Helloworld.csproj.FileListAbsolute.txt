@@ -5,3 +5,4 @@ C:\Users\İlker\Desktop\PROJELER\Helloworld\Helloworld\bin\Debug\Helloworld.exe
 C:\Users\İlker\Desktop\PROJELER\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
 C:\Users\İlker\Desktop\PROJELER\Helloworld\Helloworld\obj\Debug\Helloworld.exe
 C:\Users\İlker\Desktop\PROJELER\Helloworld\Helloworld\obj\Debug\Helloworld.pdb
+C:\Users\İlker\Desktop\PROJELER\Helloworld\Helloworld\obj\Debug\Helloworld.exe.config
